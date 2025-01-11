@@ -1,0 +1,1 @@
+This script assumes that your Geometry Dash folder has not moved. If it has, update the file directories. You can find the my hitting game setting -> manage -> browse local files. Navigate to the resources folder and select the sprite sheet as well as its corresponding plist.
